@@ -59,14 +59,12 @@ class ShubhamKumar {
 
 ## 🌐 Connect
 
-- GitHub: https://github.com/debuggingmylyf
 - LinkedIn: https://linkedin.com/in/debuggingmylf
+- Instagram: https://instagram.com/debuggingmylyf
 
 > Building scalable software today while exploring the future with Agentic AI.
 
 ### 🐍 Contribution Snake
-
-Enable the Platane/snk GitHub Action to generate an animated contribution snake.
 
 <p align="center">
   <picture>
