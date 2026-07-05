@@ -1,178 +1,69 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | Backend Enthusiast</h3>
+# Hi 👋 I'm Shubham Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Backend+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+Engineer;Building+Scalable+Backend+Systems;Exploring+Agentic+AI+%26+AI+Agent+Workflows;Always+Learning+🚀"/>
 </p>
 
----
+## 💫 About Me
 
-## 👨‍💻 About Me
-
-- 💼 Java Full Stack Developer
-- 🌱 Currently building Enterprise Microservices
-- 🚀 Passionate about scalable backend systems
-- 💡 Interested in Distributed Systems & Cloud
-- 📚 Continuously learning System Design
-- ⚡ Love solving real-world problems with code
-
----
+```java
+class ShubhamKumar {
+  String role = "Java Full Stack Developer";
+  String[] skills = {"Java","Spring Boot","Microservices","REST APIs","JavaScript","TypeScript"};
+  String[] exploring = {"Agentic AI","AI Agent Workflows","Spring AI","LangGraph","MCP","Docker","Kubernetes","Kafka","Redis","AWS"};
+}
+```
 
 ## 🚀 Tech Stack
 
-### Programming Languages
+- Java • Spring Boot • Microservices
+- JavaScript • TypeScript • HTML • CSS
+- MySQL • Git • GitHub • Maven • Postman
+- Docker • Kubernetes (Learning)
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,cpp" />
-</p>
+## 🤖 Currently Exploring
 
-### Backend
+- Agentic AI
+- AI Agent Workflows
+- Spring AI
+- LangGraph
+- Model Context Protocol (MCP)
+- LLM-powered Applications
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,nodejs" />
-</p>
+## ⭐ Featured Projects
 
-### Frontend
+- Enterprise Ecommerce Microservices
+- Ecommerce Config Repository
+- Book Library
+- Movies World
+- PeerLedger
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
-
----
-
-# 💼 Featured Projects
-
-## 🏢 Enterprise Ecommerce Microservices
-
-- Spring Boot
-- Microservices Architecture
-- Config Repository
-- REST APIs
-- Service Communication
-- Enterprise Architecture
-
-## 📚 Book Library
-
-- CRUD Operations
-- Database Integration
-- JavaScript Frontend
-- Responsive UI
-
-## 🎬 Movies World
-
-- JavaScript
-- Dynamic UI
-- API Integration
-
-## 🛒 Ecommerce Config Repository
-
-Configuration Repository for Spring Cloud Config Server used in Microservices Architecture.
-
-## 💰 PeerLedger
-
-- TypeScript
-- Financial Tracking
-- Lending/Borrowing Management
-
----
-
-# 💻 Skills
-
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- SQL
-- Git & GitHub
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- MVC Architecture
-- CRUD Applications
-- Configuration Management
-- Backend Development
-
----
-
-# 📖 Currently Learning
-
-- Spring Cloud
-- Docker
-- Kubernetes
-- Redis
-- Kafka
-- AWS
-- CI/CD
-- System Design
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=debuggingmylyf&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuggingmylyf&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=debuggingmylyf&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 GitHub Trophy
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=debuggingmylyf&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=debuggingmylyf&theme=algolia"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=debuggingmylyf&theme=tokyo-night"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-> Enable a GitHub Action to generate:
-> `github-contribution-grid-snake.svg`
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 - GitHub: https://github.com/debuggingmylyf
 - LinkedIn: https://linkedin.com/in/debuggingmylf
 
----
+> Building scalable software today while exploring the future with Agentic AI.
 
-## 💡 Quote
+### 🐍 Contribution Snake
 
-> *"Code. Learn. Improve. Repeat."*
-
-<p align="center">
-⭐ From <b>debuggingmylyf</b>
-</p>
+Enable the Platane/snk GitHub Action to generate an animated contribution snake.
